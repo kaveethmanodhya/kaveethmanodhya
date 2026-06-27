@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:2563EB&text=KAVEETH%20MANODHYA&fontColor=ffffff&fontSize=45&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Developer%20•%20Designer%20•%20Creator&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cairopixel&size=24&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+beautiful+web+experiences;Creating+clean+UI+and+modern+products;Turning+ideas+into+real+projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+beautiful+web+experiences;Creating+clean+UI+and+modern+products;Turning+ideas+into+real+projects"/>
 
 </div>
 
