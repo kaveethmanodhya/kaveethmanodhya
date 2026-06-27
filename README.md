@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Kaveeth</h1>
 
-<!--
-**kaveethmanodhya/kaveethmanodhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Web Developer • UI Enthusiast • Building Digital Experiences
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌍 From Sri Lanka
+- 💻 Building web applications
+- 🎨 Interested in UI design
+- 📷 Enjoy photography and photo editing
+- ✈️ Love travelling
+
+---
+
+## 🛠 Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-black)
+![React](https://img.shields.io/badge/React-blue)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Vercel](https://img.shields.io/badge/Vercel-black)
+
+---
+
+## 📌 Featured Projects
+
+### Digital Invitation Platform
+https://www.kodex.online
+
+### Portfolio Website
+https://kaveeth-manodhya.vercel.app
+
+---
+
+## 📈 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=kaveethmanodhya&show_icons=true)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaveethmanodhya&layout=compact)
+
+---
+
+## 📫 Connect
+
+Email: kaveethmanodhaya@email.com
